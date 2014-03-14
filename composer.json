@@ -1,0 +1,16 @@
+{
+  "name": "kusmayadi/nl2p",
+  "description": "Convert line breaks into <p>",
+  "version": "1.0.0",
+  "keywords": ["php", "helper", "nl2br", "nl2p"],
+  "homepage": "https://github.com/kusmayadi/nl2p",
+  "license": "MIT"
+  "authors": [
+    {
+      "name": "Kusmayadi",
+      "email": "kusmayadi@cobacobi.com",
+      "homepage": "http://www.kusmayadi.com",
+      "role": "Developer"
+    }
+  ]
+}
