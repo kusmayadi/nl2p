@@ -12,5 +12,9 @@
       "homepage": "http://www.kusmayadi.com",
       "role": "Developer"
     }
-  ]
+  ],
+  "tags": "1.0.0",
+  "autoload": {
+    "files": ["src/nl2p.php"]
+  }
 }
