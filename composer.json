@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "keywords": ["php", "helper", "nl2br", "nl2p"],
   "homepage": "https://github.com/kusmayadi/nl2p",
-  "license": "MIT"
+  "license": "MIT",
   "authors": [
     {
       "name": "Kusmayadi",
