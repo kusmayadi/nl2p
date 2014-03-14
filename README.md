@@ -5,4 +5,4 @@ Convert line breaks to &lt;p&gt;
 
 Usage:
 
-`nl2p($text);`
+`$convertedText = nl2p($text)`
